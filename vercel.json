@@ -2,7 +2,6 @@
     "version": 2,
     "rewrites": [
         {
-            "outputDirectory": "dist",
             "source": "/(.*)",
             "destination": "/src"
         }
